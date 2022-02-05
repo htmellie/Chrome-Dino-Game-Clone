@@ -1,8 +1,16 @@
 .game {
   width: 600px;
   height: 200px;
-  border: 1px solid black;
   margin: auto;
+}
+
+#ground {
+  background-image: url(img/ground.png);
+  width: 600px;
+  height: 30px;
+  top: 150px;
+  top: 95px;
+  position: relative;
 }
 
 #dino {
