@@ -1,2 +1,2 @@
-# Chrome-Dino-Game-Clone
-Clone of Chrome Dinosaur Game
+# Chrome-Dino-Clone
+Clone of Google Chrome's Dinosaur Game
